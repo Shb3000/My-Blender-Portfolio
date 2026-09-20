@@ -17,7 +17,7 @@ Macro camera move revealing a laptop screen and backlit keyboard.
 ### Aviator Sunglasses
 Studio product shot with a geometric podium set and colored shadows.
 
-![thumbnail](sunglasses/final_render.png)
+![thumbnail](sunglasses/final_render.jpg)
 
 - **Focus:** glass/dielectric materials, studio lighting, composition
 - **Tools:** Blender ([Eevee / Cycles])
@@ -26,7 +26,7 @@ Studio product shot with a geometric podium set and colored shadows.
 ### Wireless Headphones
 Product still plus a clay-render turntable showing the modeling-to-shading process.
 
-![thumbnail](headphones/thumbnail.png)
+![thumbnail](headphones/thumbnail.jpg)
 
 - **Focus:** hard-surface modeling, ambient occlusion, depth-of-field animation
 - **Tools:** Blender ([Eevee / Cycles])
@@ -35,7 +35,7 @@ Product still plus a clay-render turntable showing the modeling-to-shading proce
 ### Classroom Interior
 Atmospheric environment render with morning light through the windows.
 
-![thumbnail](classroom/final_render.png)
+![thumbnail](classroom/final_render.jpg)
 
 - **Focus:** interior lighting, depth of field, set dressing
 - **Tools:** Blender ([Eevee / Cycles])
